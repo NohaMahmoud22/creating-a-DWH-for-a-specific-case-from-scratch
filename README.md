@@ -1,1 +1,0 @@
-# creating-a-DWH-for-a-specific-case-from-scratch
